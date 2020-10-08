@@ -1,0 +1,563 @@
+{
+  "estudiantes": [
+    {
+      "id": 2,
+      "documento": "473-49-9526",
+      "nombre": "Evelin",
+      "apellido": "Feathers",
+      "genero": "Male",
+      "correo": "efeathers1@barnesandnoble.com",
+      "fecha_nacimiento": "2014-07-13"
+    },
+    {
+      "id": 3,
+      "documento": "499-85-6921",
+      "nombre": "Graham",
+      "apellido": "Bettanay",
+      "genero": "Male",
+      "correo": "gbettanay2@github.com",
+      "fecha_nacimiento": "2014-02-05"
+    },
+    {
+      "id": 4,
+      "documento": "778-39-2979",
+      "nombre": "Ginevra",
+      "apellido": "Warters",
+      "genero": "Female",
+      "correo": "gwarters3@sakura.ne.jp",
+      "fecha_nacimiento": "2005-09-19"
+    },
+    {
+      "id": 5,
+      "documento": "485-20-0513",
+      "nombre": "Rita",
+      "apellido": "Surgenor",
+      "genero": "Female",
+      "correo": "rsurgenor4@wp.com",
+      "fecha_nacimiento": "2002-09-20"
+    },
+    {
+      "id": 6,
+      "documento": "395-64-5783",
+      "nombre": "Maryellen",
+      "apellido": "Carrett",
+      "genero": "Female",
+      "correo": "mcarrett5@ox.ac.uk",
+      "fecha_nacimiento": "2015-10-11"
+    },
+    {
+      "id": 7,
+      "documento": "401-29-2838",
+      "nombre": "Reena",
+      "apellido": "Scohier",
+      "genero": "Female",
+      "correo": "rscohier6@uiuc.edu",
+      "fecha_nacimiento": "2009-03-03"
+    },
+    {
+      "id": 8,
+      "documento": "354-37-6041",
+      "nombre": "Effie",
+      "apellido": "Tarbett",
+      "genero": "Female",
+      "correo": null,
+      "fecha_nacimiento": "2014-03-03"
+    },
+    {
+      "id": 9,
+      "documento": "178-61-0725",
+      "nombre": "Aluino",
+      "apellido": "Reams",
+      "genero": "Male",
+      "correo": "areams8@youku.com",
+      "fecha_nacimiento": "2001-10-14"
+    },
+    {
+      "id": 10,
+      "documento": "488-74-8531",
+      "nombre": "Eada",
+      "apellido": "Digman",
+      "genero": "Female",
+      "correo": "edigman9@virginia.edu",
+      "fecha_nacimiento": "2000-12-24"
+    },
+    {
+      "id": 11,
+      "documento": "860-89-9265",
+      "nombre": "Ethelred",
+      "apellido": "Littleton",
+      "genero": "Male",
+      "correo": "elittletona@joomla.org",
+      "fecha_nacimiento": "2015-02-04"
+    },
+    {
+      "id": 12,
+      "documento": "574-94-2416",
+      "nombre": "Jodee",
+      "apellido": "Nanuccioi",
+      "genero": "Female",
+      "correo": "jnanuccioib@wikimedia.org",
+      "fecha_nacimiento": "2013-01-08"
+    },
+    {
+      "id": 13,
+      "documento": "475-06-3527",
+      "nombre": "Marv",
+      "apellido": "Cogley",
+      "genero": "Male",
+      "correo": "mcogleyc@bloglines.com",
+      "fecha_nacimiento": "2014-01-26"
+    },
+    {
+      "id": 14,
+      "documento": "683-65-8817",
+      "nombre": "Tim",
+      "apellido": "Seamons",
+      "genero": "Male",
+      "correo": "tseamonsd@admin.ch",
+      "fecha_nacimiento": "2003-03-17"
+    },
+    {
+      "id": 15,
+      "documento": "664-92-5117",
+      "nombre": "Neile",
+      "apellido": "Wincom",
+      "genero": "Female",
+      "correo": "nwincome@parallels.com",
+      "fecha_nacimiento": "2005-02-21"
+    },
+    {
+      "id": 16,
+      "documento": "352-41-4241",
+      "nombre": "Beauregard",
+      "apellido": "Pawelski",
+      "genero": "Male",
+      "correo": "bpawelskif@merriam-webster.com",
+      "fecha_nacimiento": "2009-05-07"
+    },
+    {
+      "id": 17,
+      "documento": "385-04-5119",
+      "nombre": "Alexandre",
+      "apellido": "Flahy",
+      "genero": "Male",
+      "correo": "aflahyg@ucoz.ru",
+      "fecha_nacimiento": "2002-03-24"
+    },
+    {
+      "id": 18,
+      "documento": "839-61-2072",
+      "nombre": "Dania",
+      "apellido": "Oakenford",
+      "genero": "Female",
+      "correo": "doakenfordh@people.com.cn",
+      "fecha_nacimiento": "2007-12-31"
+    },
+    {
+      "id": 19,
+      "documento": "124-23-9664",
+      "nombre": "Tabor",
+      "apellido": "Hammer",
+      "genero": "Male",
+      "correo": "thammeri@chicagotribune.com",
+      "fecha_nacimiento": "2000-10-05"
+    },
+    {
+      "id": 20,
+      "documento": "380-16-7725",
+      "nombre": "Rosie",
+      "apellido": "Heselwood",
+      "genero": "Female",
+      "correo": "rheselwoodj@theatlantic.com",
+      "fecha_nacimiento": "2015-04-01"
+    },
+    {
+      "id": 21,
+      "documento": "780-86-7851",
+      "nombre": "Tana",
+      "apellido": "Sollime",
+      "genero": "Female",
+      "correo": "tsollimek@msn.com",
+      "fecha_nacimiento": "2015-11-30"
+    },
+    {
+      "id": 22,
+      "documento": "792-46-6672",
+      "nombre": "Alexei",
+      "apellido": "Greasley",
+      "genero": "Male",
+      "correo": "agreasleyl@intel.com",
+      "fecha_nacimiento": "2015-01-21"
+    },
+    {
+      "id": 23,
+      "documento": "543-63-8271",
+      "nombre": "Alyosha",
+      "apellido": "Shilstone",
+      "genero": "Male",
+      "correo": "ashilstonem@ow.ly",
+      "fecha_nacimiento": "2012-09-09"
+    },
+    {
+      "id": 24,
+      "documento": "473-45-8612",
+      "nombre": "Onfre",
+      "apellido": "O'Dowd",
+      "genero": "Male",
+      "correo": null,
+      "fecha_nacimiento": "2010-07-21"
+    },
+    {
+      "id": 25,
+      "documento": "393-03-1811",
+      "nombre": "Obadias",
+      "apellido": "Mynott",
+      "genero": "Male",
+      "correo": "omynotto@ehow.com",
+      "fecha_nacimiento": "2014-12-23"
+    },
+    {
+      "id": 26,
+      "documento": "601-15-6810",
+      "nombre": "Layton",
+      "apellido": "Carbonell",
+      "genero": "Male",
+      "correo": "lcarbonellp@liveinternet.ru",
+      "fecha_nacimiento": "2009-03-03"
+    },
+    {
+      "id": 27,
+      "documento": "750-50-0719",
+      "nombre": "Graehme",
+      "apellido": "Agnew",
+      "genero": "Male",
+      "correo": "gagnewq@latimes.com",
+      "fecha_nacimiento": "2005-07-02"
+    },
+    {
+      "id": 28,
+      "documento": "646-18-8143",
+      "nombre": "Hildegaard",
+      "apellido": "Nairne",
+      "genero": "Female",
+      "correo": "hnairner@timesonline.co.uk",
+      "fecha_nacimiento": "2000-12-20"
+    },
+    {
+      "id": 29,
+      "documento": "456-25-8450",
+      "nombre": "Ester",
+      "apellido": "Adanez",
+      "genero": "Female",
+      "correo": "eadanezs@smh.com.au",
+      "fecha_nacimiento": "2003-04-16"
+    },
+    {
+      "id": 30,
+      "documento": "228-79-9812",
+      "nombre": "Merrel",
+      "apellido": "McLevie",
+      "genero": "Male",
+      "correo": "mmcleviet@de.vu",
+      "fecha_nacimiento": "2003-11-20"
+    },
+    {
+      "id": 31,
+      "documento": "468-01-4535",
+      "nombre": "Clovis",
+      "apellido": "Norvel",
+      "genero": "Female",
+      "correo": "cnorvelu@cbsnews.com",
+      "fecha_nacimiento": "2016-07-27"
+    },
+    {
+      "id": 32,
+      "documento": "699-14-0689",
+      "nombre": "Odell",
+      "apellido": "Nangle",
+      "genero": "Male",
+      "correo": "onanglev@feedburner.com",
+      "fecha_nacimiento": "2014-10-05"
+    },
+    {
+      "id": 33,
+      "documento": "616-23-3434",
+      "nombre": "Gwynne",
+      "apellido": "Tournie",
+      "genero": "Female",
+      "correo": "gtourniew@baidu.com",
+      "fecha_nacimiento": "2006-05-22"
+    },
+    {
+      "id": 34,
+      "documento": "679-14-6829",
+      "nombre": "Cirstoforo",
+      "apellido": "Searston",
+      "genero": "Male",
+      "correo": "csearstonx@toplist.cz",
+      "fecha_nacimiento": "2004-11-21"
+    },
+    {
+      "id": 35,
+      "documento": "396-53-8874",
+      "nombre": "Barbra",
+      "apellido": "Happel",
+      "genero": "Female",
+      "correo": null,
+      "fecha_nacimiento": "2015-04-07"
+    },
+    {
+      "id": 36,
+      "documento": "653-42-3488",
+      "nombre": "May",
+      "apellido": "Abramovitch",
+      "genero": "Female",
+      "correo": "mabramovitchz@stumbleupon.com",
+      "fecha_nacimiento": "2019-09-01"
+    },
+    {
+      "id": 37,
+      "documento": "415-57-6620",
+      "nombre": "Nichole",
+      "apellido": "Demare",
+      "genero": "Female",
+      "correo": "ndemare10@wikipedia.org",
+      "fecha_nacimiento": "2015-09-22"
+    },
+    {
+      "id": 38,
+      "documento": "237-56-1296",
+      "nombre": "Reade",
+      "apellido": "Winchurch",
+      "genero": "Male",
+      "correo": "rwinchurch11@jalbum.net",
+      "fecha_nacimiento": "2001-09-04"
+    },
+    {
+      "id": 39,
+      "documento": "862-67-4423",
+      "nombre": "Rodrique",
+      "apellido": "Basford",
+      "genero": "Male",
+      "correo": "rbasford12@furl.net",
+      "fecha_nacimiento": "2013-08-19"
+    },
+    {
+      "id": 40,
+      "documento": "450-34-9965",
+      "nombre": "Siouxie",
+      "apellido": "Shitliffe",
+      "genero": "Female",
+      "correo": "sshitliffe13@slashdot.org",
+      "fecha_nacimiento": "2019-01-08"
+    },
+    {
+      "id": 41,
+      "documento": "417-13-3438",
+      "nombre": "Vanda",
+      "apellido": "Filyushkin",
+      "genero": "Female",
+      "correo": "vfilyushkin14@si.edu",
+      "fecha_nacimiento": "2016-08-20"
+    },
+    {
+      "id": 42,
+      "documento": "645-87-7364",
+      "nombre": "Krispin",
+      "apellido": "Fennell",
+      "genero": "Male",
+      "correo": "kfennell15@imdb.com",
+      "fecha_nacimiento": "2018-12-22"
+    },
+    {
+      "id": 43,
+      "documento": "503-91-7574",
+      "nombre": "Blayne",
+      "apellido": "Jandourek",
+      "genero": "Male",
+      "correo": "bjandourek16@tinypic.com",
+      "fecha_nacimiento": "2017-07-30"
+    },
+    {
+      "id": 44,
+      "documento": "857-60-5122",
+      "nombre": "Richmound",
+      "apellido": "Birdseye",
+      "genero": "Male",
+      "correo": null,
+      "fecha_nacimiento": "2010-08-21"
+    },
+    {
+      "id": 45,
+      "documento": "108-49-3904",
+      "nombre": "Diana",
+      "apellido": "Dowey",
+      "genero": "Female",
+      "correo": null,
+      "fecha_nacimiento": "2017-08-02"
+    },
+    {
+      "id": 46,
+      "documento": "493-08-5692",
+      "nombre": "Farlie",
+      "apellido": "Hebard",
+      "genero": "Male",
+      "correo": "fhebard19@vimeo.com",
+      "fecha_nacimiento": "2015-03-02"
+    },
+    {
+      "id": 47,
+      "documento": "139-84-7708",
+      "nombre": "Noni",
+      "apellido": "Catterell",
+      "genero": "Female",
+      "correo": "ncatterell1a@unblog.fr",
+      "fecha_nacimiento": "2004-11-08"
+    },
+    {
+      "id": 48,
+      "documento": "713-76-5645",
+      "nombre": "Bary",
+      "apellido": "Pountain",
+      "genero": "Male",
+      "correo": "bpountain1b@google.com.au",
+      "fecha_nacimiento": "2002-12-14"
+    },
+    {
+      "id": 49,
+      "documento": "790-76-9315",
+      "nombre": "Robbert",
+      "apellido": "Andrea",
+      "genero": "Male",
+      "correo": "randrea1c@booking.com",
+      "fecha_nacimiento": "2010-09-11"
+    },
+    {
+      "id": 50,
+      "documento": "265-82-1416",
+      "nombre": "Roslyn",
+      "apellido": "Tweddle",
+      "genero": "Female",
+      "correo": "rtweddle1d@chronoengine.com",
+      "fecha_nacimiento": "2014-01-05"
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 51
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 52
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 53
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 54
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 55
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 56
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 57
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 58
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 59
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 60
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 61
+    },
+    {
+      "documento": "8938483747",
+      "nombre": "Carlos",
+      "apellido": "Meneses",
+      "genero": "Masculino",
+      "correo": "carlos@census.com",
+      "fecha_nacimiento": "2001-05-12",
+      "id": 62
+    }
+  ],
+  "materias": [
+    {
+      "id": 1,
+      "nombre": "Biología"
+    },
+    {
+      "id": 2,
+      "nombre": "Español"
+    }
+  ]
+}
